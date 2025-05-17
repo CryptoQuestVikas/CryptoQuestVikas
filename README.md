@@ -1,6 +1,6 @@
 # Follow me on :
 
-![](src="https://tryhackme-badges.s3.amazonaws.com/vikaslahare1524.png")
+![](<img src="https://tryhackme-badges.s3.amazonaws.com/vikaslahare1524.png">)
 
 - 👋 Hi, I’m @CryptoQuestVikas
 - 👀 I’m interested in Website making and Degining, Cyber Security --> OSCP...
