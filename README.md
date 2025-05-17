@@ -1,5 +1,5 @@
 # Follow me on :
-![("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3523332")]()
+![]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3523332")
 
 - 👋 Hi, I’m @CryptoQuestVikas
 - 👀 I’m interested in Website making and Degining, Cyber Security --> OSCP...
